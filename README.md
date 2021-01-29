@@ -4,15 +4,15 @@
 
 ### I love to build :iphone: in React Native. I :computer: at [Techsalicious](https://techsalicious.com/) as a Application Developer.
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **ReactNative**.
 
-- 💬 Ask me about: **Anything Related to Tech I'll try to answer**
+- 💬 Ask me about: **Anything Related to Tech I'll try to answer**.
 
-- 📫 How to reach me: **mondaldebdip007@gmail.com**
+- 📫 How to reach me: **mondaldebdip007@gmail.com** .
 
-- ⚡ Facts:**I Almost Spend 8 hours on Spotify.**
-          - :hamburger: Food is Life
-          - :dog2: Huskies are :heart_eyes:
+- ⚡ Facts:**I Almost Spend 8 hours on Spotify.**.
+          - :hamburger: Food is Life.
+          - :dog2: Huskies are :heart_eyes.
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem1-kohl.vercel.app/api/spotify)](https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m)

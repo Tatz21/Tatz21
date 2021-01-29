@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Spotify](https://novatorem-indol-seven.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-git-master.tatz21.vercel.app/api/spotify)](https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m)
 
 ## Languages & Frameworks :wrench:
 <p align="center">

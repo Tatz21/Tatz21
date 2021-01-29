@@ -4,9 +4,9 @@
 
 ### I love to build :iphone: in React Native. I :computer: at [Techsalicious](https://techsalicious.com/) as a Application Developer.
 
-- 🌱 I’m currently learning **ReactNative**.
+- 🌱 I’m currently learning: **ReactNative**.
 
-- 💬 Ask me about: **Anything Related to Tech I'll try to answer**.
+- 💬 Ask me about: **Anything Related to Tech I'll try my best to answer**.
 
 - 📫 How to reach me: **mondaldebdip007@gmail.com** .
 

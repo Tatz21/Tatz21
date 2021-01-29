@@ -36,3 +36,5 @@
 <a href="https://github.com/Tatz21">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&count_private=true&hide_rank=true&bg_color=45,43cea2,185a9d&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="Tatz's github stats"/>
 </a>
+
+### Show some :heart: by starring some of the repositories!

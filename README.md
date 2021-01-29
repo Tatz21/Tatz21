@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 💬 Ask me about **Anything Related to Tech I'll try to answer**
+- 💬 Ask me about: **Anything Related to Tech I'll try to answer**
 
 - 📫 How to reach me: **mondaldebdip007@gmail.com**
 
-- ⚡ Fun fact **I Almost Spent 8 hours on Spotify.**
+- ⚡ Fun fact:**I Almost Spend 8 hours on Spotify.**
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem1-kohl.vercel.app/api/spotify)](https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m)

@@ -25,7 +25,7 @@
 <a href="https://fb.com/debdip.mondal.18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="debdip.mondal.18" height="30" width="40" /></a>
 <a href="https://instagram.com/tatz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tatz.exe" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/572857482792271917" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="4742" height="30" width="40" /></a>     
-<a href="https://https://github.com/Tatz21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="tatz.exe" height="30" width="40" /></a>          
+<a href="https://github.com/Tatz21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="tatz.exe" height="30" width="40" /></a>          
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
@@ -38,4 +38,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&count_private=true&hide_rank=true&bg_color=45,43cea2,185a9d&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="Tatz's github stats"/>
 </a>
 
-### Show some :heart: by starring some of the repositories!
+### Show some :heart: by starring some of the repos!

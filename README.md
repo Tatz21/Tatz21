@@ -12,7 +12,7 @@
 
 - ⚡ Facts:**I Almost Spend 8 hours on Spotify.**.
           - :hamburger: Food is Life.
-          - :dog2: Huskies are :heart_eyes.
+          - :dog2: Huskies are :heart_eyes:
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem1-kohl.vercel.app/api/spotify)](https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m)

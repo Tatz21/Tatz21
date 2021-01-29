@@ -13,6 +13,8 @@ Here are some ideas to get you started: -->
 
 
 
+
+
 ## Languages & Frameworks :wrench:
 <p align="center">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
@@ -33,4 +35,9 @@ Here are some ideas to get you started: -->
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&count_private=true&hide_rank=true&bg_color=45,43cea2,185a9d&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="Tatz's github stats"/>
 </a>
 </p>
+
+<br/>
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem1-kohl.vercel.app/api/spotify)](https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m)
 

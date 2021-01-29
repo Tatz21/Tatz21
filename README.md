@@ -1,43 +1,25 @@
-<!-- **Tatz21/Tatz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Tatz</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Here are some ideas to get you started: -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tatz21&label=Profile%20views&color=0e75b6&style=flat" alt="tatz21" /> </p>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🌱 I’m currently learning **ReactNative**
 
+- 💬 Ask me about **Anything Related to Tech I'll try to answer**
 
+- 📫 How to reach me **mondaldebdip007@gmail.com**
 
+- ⚡ Fun fact **I Almost Spent 8 hours on Spotify.**
 
-
-## Languages & Frameworks :wrench:
-<p align="center">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tatz_p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tatz_p" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debdip-m-6b9837129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="debdip-m-6b9837129" height="30" width="40" /></a>
+<a href="https://fb.com/debdip.mondal.18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="debdip.mondal.18" height="30" width="40" /></a>
+<a href="https://instagram.com/tatz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tatz.exe" height="30" width="40" /></a>
 </p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-## Github Stats:
-
-<p align="center">
-<a href="https://github.com/Tatz21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatz21&hide_langs_below=1&bg_color=45,36d1dc,5b86e5&text_color=ffffff&title_color=ffffff&hide_border=true" />
-</a>
-<a href="https://github.com/Tatz21">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&count_private=true&hide_rank=true&bg_color=45,43cea2,185a9d&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="Tatz's github stats"/>
-</a>
-</p>
-
-<br/>
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem1-kohl.vercel.app/api/spotify)](https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatz21&show_icons=true&locale=en&layout=compact" alt="tatz21" /></p>

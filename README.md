@@ -29,7 +29,7 @@
 
 ## Github Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatz21&show_icons=true&locale=en&layout=compact" alt="tatz21" /></p>
-<p align="center">
+<br/>
 <a href="https://github.com/Tatz21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatz21&hide_langs_below=1&bg_color=45,36d1dc,5b86e5&text_color=ffffff&title_color=ffffff&hide_border=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&count_private=true&hide_rank=true&bg_color=45,43cea2,185a9d&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="Tatz's github stats"/>
 </a>

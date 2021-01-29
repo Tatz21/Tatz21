@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tatz</h1>
-### I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://techsalicious.com/) as Full Stack Developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatz21&label=Profile%20views&color=0e75b6&style=flat" alt="tatz21" /> </p>
+
+### I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://techsalicious.com/) as Full Stack Developer.
 
 - 🌱 I’m currently learning **ReactNative**
 
 - 💬 Ask me about **Anything Related to Tech I'll try to answer**
 
-- 📫 How to reach me **mondaldebdip007@gmail.com**
+- 📫 How to reach me: **mondaldebdip007@gmail.com**
 
 - ⚡ Fun fact **I Almost Spent 8 hours on Spotify.**
 

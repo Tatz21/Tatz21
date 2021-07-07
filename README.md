@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatz21&label=Profile%20views&color=0e75b6&style=flat" alt="tatz21" /> </p>
 
-### I love to build :iphone: in React Native. I :computer: at [Techsalicious](https://techsalicious.com/) as a Application Developer.
+### I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://techsalicious.com/) as a Application Developer.
 
-- 🌱 I’m currently learning: **ReactNative**.
+- 🌱 I’m currently learning: **Flutter**.
 
 - 💬 Ask me about: **Anything Related to Tech I'll try my best to answer**.
 

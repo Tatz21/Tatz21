@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **Anything Related to Tech I'll try my best to answer**.
 
-- 📫 How to reach me: **mondaldebdip007@gmail.com** .
+
 
 - ⚡ Facts:**I Almost Spend 8 hours on Spotify.**.
           - :hamburger: Food is Life.

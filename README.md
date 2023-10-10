@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatz21&label=Profile%20views&color=0e75b6&style=flat" alt="tatz21" /> </p>
 
-### I love to build :iphone: in Flutter. I :computer: at [Techsalicious](https://techsalicious.com/) as a Application Developer.
+### I love to build :iphone: in Flutter. I :computer: at [Posterscraft](https://posterscraft.com/) as a Application Developer.
 
 - 🌱 I’m currently learning: **Flutter**.
 

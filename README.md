@@ -309,13 +309,25 @@ Influencer Content
 
 # 🎧 CURRENTLY LISTENING
 
+---
+
+# 🎧 CURRENTLY LISTENING
+
 <p align="center">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxumgnqhfyg2y4awa7eyj6ey7m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true"
-    width="500"
-    alt="Currently listening on Spotify"
-  />
+
+<a href="https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m">
+
+<img src="https://img.shields.io/badge/🎧%20MY%20SPOTIFY-OPEN%20PROFILE-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+
+</a>
+
 </p>
+
+<p align="center">
+  <b>Music • Coding • Late Night Builds 🎵</b>
+</p>
+
+---
 
 <p align="center">
   🎵 <b>What I'm listening to right now</b>

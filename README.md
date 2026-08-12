@@ -309,17 +309,7 @@ Influencer Content
 
 # 🎧 CURRENTLY LISTENING
 
----
-
-# 🎧 CURRENTLY LISTENING
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bxumgnqhfyg2y4awa7eyj6ey7m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<p align="center">
-  <b>Music • Coding • Late Night Builds 🎵</b>
-</p>
-
----
 
 <p align="center">
   🎵 <b>What I'm listening to right now</b>

@@ -267,37 +267,6 @@ Influencer Content
 
 ---
 
-# 🌐 FIND ME
-
-<p align="center">
-
-<a href="https://github.com/Tatz21">
-<img src="https://img.shields.io/badge/GitHub-Tatz21-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.luminastudio.in">
-<img src="https://img.shields.io/badge/Lumina%20Studio-Website-111111?style=for-the-badge&logo=googlechrome" />
-</a>
-
-<a href="https://www.thetimelinerskolkata.com">
-<img src="https://img.shields.io/badge/TheTimeliners-Website-111111?style=for-the-badge&logo=googlechrome" />
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/Tatz21?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
-<br>
-
----
 
 <p align="center">
 
@@ -364,7 +333,7 @@ Huskies are cooler.
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT WITH ME/ # 🌐 FIND ME
 
 <p align="center">
 

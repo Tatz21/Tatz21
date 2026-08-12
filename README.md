@@ -1,137 +1,287 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=Tatz21&theme=aurora&mode=dark" width="100%" />
+  <img src="https://www.gitskins.com/api/section/hero?username=Tatz21&theme=aurora&mode=dark" width="100%" alt="Debdip Mondal GitHub Profile" />
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Tatz21">
-    <img src="https://img.shields.io/badge/GitHub-Tatz21-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GITHUB-TATZ21-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.luminastudio.in">
-    <img src="https://img.shields.io/badge/Lumina%20Studio-Website-black?style=for-the-badge&logo=googlechrome" />
+    <img src="https://img.shields.io/badge/LUMINA%20STUDIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.thetimelinerskolkata.com">
-    <img src="https://img.shields.io/badge/TheTimeliners-Website-black?style=for-the-badge&logo=googlechrome" />
+    <img src="https://img.shields.io/badge/THE%20TIMELINERS-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=Tatz21&theme=aurora&label=Debdip%20Mondal" width="100%" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=Tatz21&theme=aurora&label=Debdip%20Mondal" width="100%" alt="Debdip Mondal" />
 </p>
 
-<h3 align="center">
+<h2 align="center">
   Full-Stack Developer • Flutter Developer • Entrepreneur
-</h3>
+</h2>
 
 <p align="center">
-  Building <b>Web • Mobile • SaaS • AI • Automation</b>
+  <b>Building Web • Mobile • SaaS • AI • Automation</b>
 </p>
+
+<br>
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,html,css,react,nextjs,nodejs,express,flutter,firebase,mongodb,mysql,php,laravel,git,github,vercel,wordpress,shopify&perline=7" />
+</p>
+
+<br>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,html,css,react,nextjs,nodejs,express,flutter,firebase,mongodb,mysql,laravel,php,git,github,vercel,wordpress,shopify" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+</p>
+
+<br>
 
 ---
 
-## 🚀 What I Build
+# 🚀 WHAT I BUILD
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/💻%20Full--Stack-Development-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📱%20Mobile-Flutter%20%2F%20Android-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖%20AI-Automation-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀%20SaaS-Products-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📈%20Digital-Marketing-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻%20FULL--STACK%20DEVELOPMENT-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/📱%20MOBILE%20APPS-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20AUTOMATION-111111?style=for-the-badge" />
 
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🚀%20SAAS%20PRODUCTS-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🏢%20BUSINESS%20SOFTWARE-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/📈%20DIGITAL%20MARKETING-111111?style=for-the-badge" />
+
+</p>
+
+<br>
 
 ---
 
-## 🔥 Projects
+# 🎯 CURRENT FOCUS
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=Tatz21&theme=aurora" width="100%" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=Tatz21&theme=aurora&items=AI%20%26%20Automation::Building%20smarter%20digital%20tools|SaaS::Turning%20ideas%20into%20products|Mobile::Flutter%20%26%20Android%20applications|Entrepreneurship::Building%20digital%20businesses" width="100%" alt="Current Focus" />
 </p>
 
-<p align="center">
-
-<a href="https://github.com/Tatz21">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tatz21&repo=Estatora&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Tatz21">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tatz21&repo=Maachwala&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
+<br>
 
 ---
 
-## 📊 GitHub
+# 🔥 FEATURED WORK
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<td align="center" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tatz21&theme=tokyonight&hide_border=true" height="180"/>
+<h2>🏢 ESTATORA</h2>
 
+<p>
+<b>Real Estate Management Platform</b>
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatz21&layout=compact&theme=tokyonight&hide_border=true" />
-
+<p>
+Property Management<br>
+Lead Management<br>
+Client Management<br>
+Broker Management
 </p>
+
+</td>
+
+<td align="center" width="50%">
+
+<h2>🐟 MAACHWALA</h2>
+
+<p>
+<b>Fish Delivery Platform</b>
+</p>
+
+<p>
+Online Ordering<br>
+Weight-Based Products<br>
+Local Delivery<br>
+Customer Management
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<h2>🎬 THE TIMELINERS</h2>
+
+<p>
+<b>Video Editing & Post Production</b>
+</p>
+
+<p>
+Wedding Films<br>
+Commercial Videos<br>
+Reels<br>
+Creative Post Production
+</p>
+
+</td>
+
+<td align="center" width="50%">
+
+<h2>📸 LUMINA STUDIO</h2>
+
+<p>
+<b>Creative Production Studio</b>
+</p>
+
+<p>
+Wedding Photography<br>
+Cinematography<br>
+Commercial Content<br>
+Influencer Content
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 🧠 Currently Building
+# 📊 GITHUB STATISTICS
 
 <p align="center">
 
-<img src="https://www.gitskins.com/api/section/highlights?username=Tatz21&theme=aurora&items=AI%20%26%20Automation::Building%20smarter%20tools|SaaS::Turning%20ideas%20into%20products|Mobile::Flutter%20%26%20Android%20apps|Entrepreneurship::Building%20digital%20businesses" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tatz21&theme=tokyonight&hide_border=true" width="49%" />
 
 </p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatz21&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+
+</p>
+
+<br>
 
 ---
 
-## 🐍 Contribution Graph
+# 📈 GITHUB ACTIVITY
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Tatz21/Tatz21/output/space-shooter.gif" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tatz21&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </p>
+
+<br>
 
 ---
 
-## 📈 Activity
+# 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tatz21&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tatz21/Tatz21/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </p>
+
+<br>
 
 ---
 
+# 🌌 PROFILE ACTIVITY
+
 <p align="center">
 
-<a href="https://github.com/Tatz21?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PROJECTS-000000?style=for-the-badge" />
-</a>
+<img src="https://www.gitskins.com/api/section/stats?username=Tatz21&theme=aurora" width="100%" alt="GitHub Statistics" />
 
 </p>
 
-<p align="center">
-  <b>Build. Ship. Scale. 🚀</b>
-</p>
+<br>
+
+---
+
+# 🧠 BUILDING
 
 <p align="center">
-  <sub>Made with code & caffeine ☕</sub>
+
+<img src="https://img.shields.io/badge/AI-EXPERIMENTING-000000?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SAAS-BUILDING-000000?style=for-the-badge&logo=rocket&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FLUTTER-SHIPPING-000000?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/STARTUPS-EXPLORING-000000?style=for-the-badge&logo=google&logoColor=white" />
+
 </p>
+
+<br>
+
+---
+
+# 💻 DEVELOPER MODE
+
+```text
+              IDEA
+               ↓
+            DESIGN
+               ↓
+             CODE
+               ↓
+             TEST
+               ↓
+            DEPLOY
+               ↓
+             SCALE
+               ↓
+             🚀

@@ -9,128 +9,103 @@
 <br>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER;FLUTTER+DEVELOPER;ENTREPRENEUR;BUILDING+DIGITAL+PRODUCTS"
-    alt="Typing introduction"
-  />
+  <a href="https://github.com/Tatz21">
+    <img src="https://img.shields.io/badge/GitHub-Tatz21-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shady.dmg">
+    <img src="https://img.shields.io/badge/Instagram-@shady.dmg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/debdip-m-6b9837129">
+    <img src="https://img.shields.io/badge/LinkedIn-Debdip%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/Tatz21">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.instagram.com/shady.dmg">Instagram</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/debdip-m-6b9837129">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/19efMeydw9/">Facebook</a>
-</p>
-
-<br><br>
-
----
-
-<div align="center">
-
-# I BUILD THINGS.
-
-### Apps. SaaS. AI. Businesses.
-
-</div>
 
 <br>
 
 <p align="center">
   <img
     src="https://www.gitskins.com/api/section/wordmark?username=Tatz21&theme=aurora&label=Debdip%20Mondal"
-    width="85%"
+    width="100%"
     alt="Debdip Mondal"
   />
 </p>
 
-<br>
-
----
-
-<div align="center">
-
-### THE STACK
-
-</div>
-
-<br>
+<h2 align="center">
+  Full-Stack Developer · Flutter Developer · Entrepreneur
+</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,nextjs,nodejs,express,js,ts,firebase,mongodb,mysql,laravel,php,git,github,vercel&perline=9" />
+  I build digital products, mobile apps, SaaS platforms & businesses.
 </p>
 
-<br><br>
+<br>
 
 ---
 
-<div align="center">
+## ⚡ Technologies
 
-# WHAT'S IN THE LAB?
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,react,nextjs,nodejs,express,flutter,firebase,mongodb,mysql,php,laravel,git,github,vercel&perline=9" />
+</p>
 
 <br>
 
-<table align="center" width="90%">
+---
+
+## 🚀 What I Build
+
+<table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<br>
+<h2>📱</h2>
 
-<img src="https://skillicons.dev/icons?i=flutter" width="55"/>
+<h3>APPS</h3>
 
-<h3>APP DEVELOPMENT</h3>
-
-<p>
-Mobile products<br>
-Flutter • Kotlin<br>
-Android • Firebase
-</p>
-
-<br>
+Flutter<br>
+Kotlin<br>
+Android<br>
+Firebase
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<br>
+<h2>💻</h2>
 
-<img src="https://skillicons.dev/icons?i=react" width="55"/>
+<h3>WEB</h3>
 
-<h3>SAAS</h3>
-
-<p>
-Business software<br>
-Dashboards • APIs<br>
-Automation
-</p>
-
-<br>
+React<br>
+Next.js<br>
+Node.js<br>
+APIs
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=ai" width="55"/>
+<h2>🤖</h2>
 
 <h3>AI</h3>
 
-<p>
-AI products<br>
+AI Tools<br>
 Automation<br>
-Intelligent tools
-</p>
+AI SaaS<br>
+APIs
 
-<br>
+</td>
+
+<td align="center" width="25%">
+
+<h2>🚀</h2>
+
+<h3>PRODUCTS</h3>
+
+SaaS<br>
+Business Tools<br>
+Platforms<br>
+Startups
 
 </td>
 
@@ -141,36 +116,24 @@ Intelligent tools
 
 ---
 
-<div align="center">
+## 🔥 Selected Projects
 
-# SELECTED WORK
-
-<sub>PRODUCTS • EXPERIMENTS • IDEAS</sub>
-
-</div>
-
-<br>
-
-<table align="center" width="90%">
+<table align="center">
 <tr>
 
 <td width="50%" align="center">
 
 <h2>ESTATORA</h2>
 
-<p>
-<b>REAL ESTATE OS</b>
-</p>
+<p><b>Real Estate Management Platform</b></p>
 
 <p>
-Property · Leads · Clients · Brokers
+Properties · Leads · Clients · Brokers
 </p>
 
 <a href="https://estatora.in">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT%20↗-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPLORE%20ESTATORA-111111?style=for-the-badge" />
 </a>
-
-<br><br>
 
 </td>
 
@@ -178,42 +141,32 @@ Property · Leads · Clients · Brokers
 
 <h2>MAACHWALA</h2>
 
-<p>
-<b>LOCAL COMMERCE</b>
-</p>
+<p><b>Local Fish Delivery Platform</b></p>
 
 <p>
-Fish · Delivery · Marketplace · Orders
+Marketplace · Ordering · Delivery
 </p>
-
-<br><br>
 
 </td>
 
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ---
 
-<div align="center">
-
-# GITHUB / SYSTEM
-
-</div>
-
-<br>
+## 📊 GitHub
 
 <p align="center">
 
 <img
 src="https://github-stats-extended.vercel.app/api?username=Tatz21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-width="48%"
+width="49%"
 />
 
 <img
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tatz21&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=7"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tatz21&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8"
 width="40%"
 />
 
@@ -225,28 +178,18 @@ width="40%"
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatz21&theme=tokyonight"
-width="90%"
+width="100%"
 />
 
 </p>
-
-<br>
-
----
-
-<div align="center">
-
-# ACTIVITY
-
-</div>
 
 <br>
 
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Tatz21&bg_color=0D1117&color=FFFFFF&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
-width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Tatz21&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true"
+width="100%"
 />
 
 </p>
@@ -255,36 +198,29 @@ width="95%"
 
 ---
 
-<div align="center">
+## 🎧 Currently Listening
 
-# 🎧 NOW PLAYING
-
-<sub>Spotify / currently listening</sub>
-
-<br><br>
+<p align="center">
 
 <a href="https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m">
 
 <img
 src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxumgnqhfyg2y4awa7eyj6ey7m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false"
 width="500"
+alt="Currently playing on Spotify"
 />
 
 </a>
 
-</div>
-
-<br><br>
-
----
-
-<div align="center">
-
-# OUTSIDE THE SCREEN
+</p>
 
 <br>
 
-<table width="80%">
+---
+
+## ❤️ Things I Love
+
+<table align="center">
 <tr>
 
 <td align="center" width="50%">
@@ -293,7 +229,14 @@ width="500"
 
 <h2>APP DEVELOPMENT</h2>
 
-<p>My favourite way to turn an idea into something real.</p>
+<p>
+My favourite part of technology.
+</p>
+
+<p>
+Turning an idea into something<br>
+people can actually use.
+</p>
 
 </td>
 
@@ -303,119 +246,123 @@ width="500"
 
 <h2>HUSKIES</h2>
 
-<p>The only thing I love almost as much as building apps.</p>
+<p>
+My favourite distraction.
+</p>
+
+<p>
+Fluffy. Chaotic. Perfect.
+</p>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
-<br><br>
+<br>
 
 ---
 
-<div align="center">
+## 🏢 My Companies
 
-# COMPANIES
+<p align="center">
+  <sub>CREATIVE BUSINESSES I'M BUILDING</sub>
+</p>
 
-<sub>THINGS I'M BUILDING OUTSIDE GITHUB</sub>
+<br>
 
-<br><br>
-
-<table width="90%">
+<table align="center">
 <tr>
 
 <td align="center" width="50%">
-
-<br>
 
 <h1>✦</h1>
 
 <h2>LUMINA STUDIO</h2>
 
-<p><b>CREATIVE PRODUCTION</b></p>
+<p>
+<b>Creative Production House</b>
+</p>
 
 <p>
-Photography · Films · Commercials
+Wedding Photography<br>
+Cinematography<br>
+Commercial & Brand Content
 </p>
 
 <a href="https://www.luminastudio.in">
-<b>luminastudio.in ↗</b>
+  <b>luminastudio.in ↗</b>
 </a>
-
-<br><br>
 
 </td>
 
 <td align="center" width="50%">
 
-<br>
-
 <h1>✦</h1>
 
 <h2>THE TIMELINERS</h2>
 
-<p><b>VIDEO & POST PRODUCTION</b></p>
+<p>
+<b>Video & Post Production</b>
+</p>
 
 <p>
-Wedding Films · Reels · VFX · 2D · 3D
+Wedding Films<br>
+Reels & Commercials<br>
+VFX · 2D · 3D
 </p>
 
 <a href="https://www.thetimelinerskolkata.com">
-<b>thetimelinerskolkata.com ↗</b>
+  <b>thetimelinerskolkata.com ↗</b>
 </a>
-
-<br><br>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
-<br><br>
+<br>
 
 ---
 
-<div align="center">
+## 🌐 Find Me
 
-# LET'S CONNECT
-
-<br>
+<p align="center">
 
 <a href="https://github.com/Tatz21">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/shady.dmg">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="48" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/debdip-m-6b9837129">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/share/19efMeydw9/">
-<img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+  <img src="https://skillicons.dev/icons?i=facebook" width="48" />
 </a>
 
-<br><br>
+</p>
 
-<sub>Available for ideas worth building.</sub>
+<br>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Tatz21?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br><br>
+<br>
 
 ---
 
 <p align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=THINK.;BUILD.;SHIP.;REPEAT."
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Build+%E2%86%92+Ship;Full-Stack+%2B+Flutter+%2B+AI;Always+building+something."
 />
 
 </p>
@@ -423,10 +370,12 @@ src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duratio
 <br>
 
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=130&section=footer"
+    width="100%"
+  />
+</p>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:70A5FD,100:111111&height=140&section=footer"
-width="100%"
-/>
-
+<p align="center">
+  <b>Build. Ship. Repeat. 🚀</b>
 </p>

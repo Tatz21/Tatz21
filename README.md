@@ -305,6 +305,70 @@ Influencer Content
 
 </p>
 
+---
+
+# 🎧 CURRENTLY LISTENING
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxumgnqhfyg2y4awa7eyj6ey7m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true"
+      width="500"
+      alt="Debdip's Spotify Now Playing"
+    />
+  </a>
+</p>
+
+<p align="center">
+  🎵 <b>What I'm listening to right now</b>
+</p>
+
+---
+
+# ❤️ THINGS I LOVE
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/📱%20APP%20DEVELOPMENT-LOVE-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐺%20HUSKIES-LOVE-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖%20AI-LOVE-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20BUILDING-111111?style=for-the-badge" />
+
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+<h1>📱</h1>
+
+<h2>APP DEVELOPMENT</h2>
+
+<p>
+Flutter • Kotlin • Android
+</p>
+
+</td>
+
+<td align="center" width="50%">
+
+<h1>🐺</h1>
+
+<h2>HUSKIES</h2>
+
+<p>
+Code is cool.<br>
+Huskies are cooler.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <h2 align="center">
   ⚡ BUILD • SHIP • SCALE
 </h2>

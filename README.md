@@ -1,23 +1,328 @@
-# 💫 About Me:
-I love to build 📱 in Flutter & React. I 💻 at Posterscraft as a Founder .<br><br>💬 Ask me about: Anything Related to Tech I'll try my best to answer.<br><br>⚡ Facts:I Almost Spend 8 hours on Spotify.. - 🍔 Food is Life. - 🐕 Huskies are 😍
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Tatz21&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Tatz21&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Debdip Mondal" />
+  </picture>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Tatz21"><b>GitHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.luminastudio.in"><b>Lumina Studio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.thetimelinerskolkata.com"><b>TheTimeliners</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Tatz21?tab=repositories"><b>Projects</b></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tatz21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Tatz21&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tatz21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=Tatz21&theme=aurora&label=Debdip%20Mondal" width="100%" alt="Animated 3D wordmark for Debdip Mondal" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tatz21&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+# 👋 Hey, I'm Debdip Mondal
+
+### Full-Stack Developer · Flutter Developer · Entrepreneur · Digital Marketer
+
+I build **web applications, mobile apps, SaaS products, AI-powered tools, business automation systems, and digital experiences.**
+
+My goal is simple:
+
+> **Turn ideas into products that actually work.**
+
+I enjoy working across the entire product lifecycle — from **idea → UI/UX → development → backend → deployment → marketing → growth**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tatz21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem1-kohl.vercel.app/api/spotify)](https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Tatz21&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Tatz21&theme=aurora&mode=dark" width="100%" alt="About Debdip Mondal" />
+  </picture>
+</p>
 
+<table>
+<tr>
+<td width="50%">
 
+### 💻 Full-Stack Development
+
+I build modern and scalable web applications, dashboards, business platforms and SaaS products.
+
+**Focus:**
+- Web Applications
+- SaaS Platforms
+- Admin Dashboards
+- Business Automation
+- REST APIs
+- Database Architecture
+
+</td>
+
+<td width="50%">
+
+### 📱 Mobile Development
+
+I build Android and cross-platform mobile applications focused on clean UI and practical functionality.
+
+**Focus:**
+- Flutter
+- Kotlin
+- Android
+- Firebase
+- API Integration
+- Real-time Applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+
+I experiment with AI to create useful tools and automate repetitive business workflows.
+
+**Focus:**
+- Gemini API
+- AI Applications
+- AI Automation
+- AI-powered SaaS
+- Developer Tools
+- Workflow Automation
+
+</td>
+
+<td width="50%">
+
+### 📈 Digital & Business
+
+I also work on the business side of technology — branding, marketing, websites and growth.
+
+**Focus:**
+- Digital Marketing
+- SEO
+- Branding
+- Lead Generation
+- Business Websites
+- Product Strategy
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=Tatz21&theme=aurora" width="100%" alt="Technology stack for Debdip Mondal" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+### AI & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+</p>
+
+---
+
+# 🔥 What I'm Building
+
+I love building products around real-world problems.
+
+### 🏢 Real Estate Technology
+
+- Property management
+- Commercial real estate
+- Office spaces
+- Lead management
+- Client management
+- Real estate automation
+
+### 🎬 Creative Technology
+
+- Wedding photography
+- Video production
+- Video editing
+- Creative agencies
+- Production workflows
+- Client management
+
+### 📱 Consumer Applications
+
+- Local commerce
+- Fish delivery
+- Education
+- Fitness
+- Productivity
+- Business management
+
+### 🤖 AI Products
+
+- AI SaaS
+- AI assistants
+- AI automation
+- Developer tools
+- AI-powered business systems
+
+---
+
+# 🚀 Selected Projects
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=Tatz21&theme=aurora" width="100%" alt="Selected projects by Debdip Mondal" />
+</p>
+
+## 🏢 Estatora
+
+**Real Estate Management Platform**
+
+A platform designed to help real estate brokers manage their complete business workflow.
+
+- Property management
+- Lead management
+- Client management
+- Employee management
+- Meeting reminders
+- Property inventory
+- Broker workflow management
+
+---
+
+## 🐟 Maachwala
+
+**Local Fish Delivery Platform**
+
+A modern fish ordering and delivery platform designed for households and apartment communities.
+
+- Fish categories
+- Weight-based products
+- Online ordering
+- Apartment delivery
+- Local sellers
+- Customer management
+
+---
+
+## 🎬 TheTimeliners
+
+**Video Editing & Post-Production**
+
+A creative production and video editing brand focused on:
+
+- Wedding films
+- Bengali wedding editing
+- Non-Bengali wedding editing
+- Reels
+- Commercial videos
+- Creative post-production
+- VFX
+- 2D & 3D work
+
+🌐 https://www.thetimelinerskolkata.com
+
+---
+
+## 📸 Lumina Studio
+
+**Wedding & Creative Production Studio**
+
+A creative production studio working across:
+
+- Wedding photography
+- Wedding cinematography
+- Commercial photography
+- Influencer content
+- Brand content
+- Creative productions
+
+🌐 https://www.luminastudio.in
+
+---
+
+## 🏢 Suitespott
+
+**Commercial Real Estate Platform**
+
+A platform focused on helping businesses discover:
+
+- Office spaces
+- Commercial properties
+- Showrooms
+- Retail spaces
+- Meeting spaces
+- Virtual offices
+- Investment opportunities
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=Tatz21&theme=aurora" width="100%" alt="GitHub activity statistics for Debdip Mondal" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tatz21/Tatz21/output/space-shooter.gif" width="100%" alt="Animated GitHub contribution game" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=Tatz21&theme=aurora&items=Full-Stack%20Development::Building%20scalable%20web%20and%20SaaS%20products|Mobile%20Development::Creating%20modern%20Flutter%20and%20Android%20applications|AI%20%26%20Automation::Turning%20AI%20into%20useful%20business%20tools|Entrepreneurship::Building%20products%20and%20businesses%20from%20the%20ground%20up" width="100%" alt="Current focus areas for Debdip Mondal" />
+</p>
+
+---
+
+# 💡 My Philosophy
+
+```text
+Think → Build → Test → Launch → Learn → Repeat

@@ -310,13 +310,11 @@ Influencer Content
 # 🎧 CURRENTLY LISTENING
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31bxumgnqhfyg2y4awa7eyj6ey7m">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxumgnqhfyg2y4awa7eyj6ey7m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true"
-      width="500"
-      alt="Debdip's Spotify Now Playing"
-    />
-  </a>
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxumgnqhfyg2y4awa7eyj6ey7m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true"
+    width="500"
+    alt="Currently listening on Spotify"
+  />
 </p>
 
 <p align="center">

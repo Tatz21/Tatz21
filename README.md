@@ -78,9 +78,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/💻%20FULL--STACK%20DEVELOPMENT-111111?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/📱%20MOBILE%20APPS-111111?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/🤖%20AI%20%26%20AUTOMATION-111111?style=for-the-badge" />
 
 </p>
@@ -88,9 +86,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/🚀%20SAAS%20PRODUCTS-111111?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/🏢%20BUSINESS%20SOFTWARE-111111?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/📈%20DIGITAL%20MARKETING-111111?style=for-the-badge" />
 
 </p>
@@ -197,17 +193,9 @@ Influencer Content
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tatz21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Tatz21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tatz21&theme=tokyonight&hide_border=true" width="49%" />
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatz21&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tatz21&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 
 </p>
 
@@ -219,7 +207,7 @@ Influencer Content
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tatz21&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tatz21&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true&custom_title=Debdip%20Mondal%20-%20GitHub%20Activity" width="100%" />
 
 </p>
 
@@ -227,23 +215,21 @@ Influencer Content
 
 ---
 
-# 🐍 CONTRIBUTION GRAPH
+# 🏆 GITHUB PROFILE
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Tatz21/Tatz21/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatz21&theme=tokyonight" width="100%" />
 
 </p>
 
 <br>
 
----
-
-# 🌌 PROFILE ACTIVITY
-
 <p align="center">
 
-<img src="https://www.gitskins.com/api/section/stats?username=Tatz21&theme=aurora" width="100%" alt="GitHub Statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatz21&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatz21&theme=tokyonight" width="48%" />
 
 </p>
 
@@ -255,7 +241,7 @@ Influencer Content
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI-EXPERIMENTING-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-EXPERIMENTING-000000?style=for-the-badge&logo=google&logoColor=white" />
 
 <img src="https://img.shields.io/badge/SAAS-BUILDING-000000?style=for-the-badge&logo=rocket&logoColor=white" />
 
@@ -271,17 +257,62 @@ Influencer Content
 
 # 💻 DEVELOPER MODE
 
-```text
-              IDEA
-               ↓
-            DESIGN
-               ↓
-             CODE
-               ↓
-             TEST
-               ↓
-            DEPLOY
-               ↓
-             SCALE
-               ↓
-             🚀
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Launch;Full-Stack+Development;Flutter+%26+Android;AI+%26+Automation;Building+Digital+Products" />
+
+</p>
+
+<br>
+
+---
+
+# 🌐 FIND ME
+
+<p align="center">
+
+<a href="https://github.com/Tatz21">
+<img src="https://img.shields.io/badge/GitHub-Tatz21-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.luminastudio.in">
+<img src="https://img.shields.io/badge/Lumina%20Studio-Website-111111?style=for-the-badge&logo=googlechrome" />
+</a>
+
+<a href="https://www.thetimelinerskolkata.com">
+<img src="https://img.shields.io/badge/TheTimeliners-Website-111111?style=for-the-badge&logo=googlechrome" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/Tatz21?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=footer" width="100%" />
+
+</p>
+
+<h2 align="center">
+  ⚡ BUILD • SHIP • SCALE
+</h2>
+
+<p align="center">
+  <b>Turning ideas into digital products.</b>
+</p>
+
+<p align="center">
+  ☕ Code • 🚀 Products • 🤖 AI • 💡 Ideas
+</p>

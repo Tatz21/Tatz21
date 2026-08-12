@@ -360,6 +360,54 @@ Huskies are cooler.
 </table>
 
 ---
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/Tatz21">
+  <img src="https://img.shields.io/badge/GitHub-@Tatz21-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/shady.dmg">
+  <img src="https://img.shields.io/badge/Instagram-@shady.dmg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/debdip-m-6b9837129">
+  <img src="https://img.shields.io/badge/LinkedIn-Debdip%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/share/19efMeydw9/">
+  <img src="https://img.shields.io/badge/Facebook-Debdip%20Mondal-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+# 🏢 MY COMPANIES
+
+<p align="center">
+
+<a href="https://www.luminastudio.in">
+  <img src="https://img.shields.io/badge/◈%20LUMINA%20STUDIO-Creative%20Production-111111?style=for-the-badge" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.thetimelinerskolkata.com">
+  <img src="https://img.shields.io/badge/◈%20THE%20TIMELINERS-Post%20Production-111111?style=for-the-badge" />
+</a>
+
+</p>
+
+<p align="center">
+  <sub>Photography • Film • Creative Production &nbsp;&nbsp;|&nbsp;&nbsp; Video Editing • Post Production</sub>
+</p>
+
+---
+---
 
 <h2 align="center">
   ⚡ BUILD • SHIP • SCALE

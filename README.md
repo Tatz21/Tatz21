@@ -333,50 +333,87 @@ Huskies are cooler.
 
 ---
 
-# 🌐 CONNECT WITH ME/ # 🌐 FIND ME
+# 🌐 CONNECT WITH ME
+
+---
+
+# 🏢 BUILT & RUNNING
 
 <p align="center">
-
-<a href="https://github.com/Tatz21">
-  <img src="https://img.shields.io/badge/GitHub-@Tatz21-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/shady.dmg">
-  <img src="https://img.shields.io/badge/Instagram-@shady.dmg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/debdip-m-6b9837129">
-  <img src="https://img.shields.io/badge/LinkedIn-Debdip%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/share/19efMeydw9/">
-  <img src="https://img.shields.io/badge/Facebook-Debdip%20Mondal-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2500&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+brands+%26+digital+products;Technology+%2B+Creativity+%2B+Business;From+ideas+to+real+products+%F0%9F%9A%80" />
 </p>
 
 <br>
 
-# 🏢 MY COMPANIES
+<table align="center">
+<tr>
 
-<p align="center">
+<td align="center" width="50%">
+
+<br>
+
+<img src="https://img.icons8.com/fluency/96/camera.png" width="65"/>
+
+<h2>✨ LUMINA STUDIO</h2>
+
+<p>
+<b>Creative Production House</b>
+</p>
+
+<p>
+📸 Wedding Photography<br>
+🎥 Cinematography<br>
+🎨 Brand & Commercial Content
+</p>
+
+<br>
 
 <a href="https://www.luminastudio.in">
-  <img src="https://img.shields.io/badge/◈%20LUMINA%20STUDIO-Creative%20Production-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPLORE%20LUMINA%20%E2%86%92-111111?style=for-the-badge" />
 </a>
 
-&nbsp;&nbsp;
+<br><br>
+
+</td>
+
+<td align="center" width="50%">
+
+<br>
+
+<img src="https://img.icons8.com/fluency/96/video-editing.png" width="65"/>
+
+<h2>🎬 THE TIMELINERS</h2>
+
+<p>
+<b>Video Editing & Post Production</b>
+</p>
+
+<p>
+🎞️ Wedding Films<br>
+⚡ Reels & Commercials<br>
+🎨 VFX • 2D • 3D
+</p>
+
+<br>
 
 <a href="https://www.thetimelinerskolkata.com">
-  <img src="https://img.shields.io/badge/◈%20THE%20TIMELINERS-Post%20Production-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPLORE%20TIMELINERS%20%E2%86%92-111111?style=for-the-badge" />
 </a>
 
-</p>
+<br><br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <sub>Photography • Film • Creative Production &nbsp;&nbsp;|&nbsp;&nbsp; Video Editing • Post Production</sub>
+  <sub>Entrepreneurship • Technology • Creative Industries</sub>
 </p>
 
+---
 ---
 ---
 
